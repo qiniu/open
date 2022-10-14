@@ -1,4 +1,8 @@
 # open
+[![Build Status](https://github.com/qiniu/open/actions/workflows/go.yml/badge.svg)](https://github.com/qiniu/open/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/qiniu/open)](https://goreportcard.com/report/github.com/qiniu/open)
+[![GitHub release](https://img.shields.io/github/v/tag/qiniu/open.svg?label=release)](https://github.com/qiniu/open/releases)
+[![GoDoc](https://pkg.go.dev/badge/github.com/qiniu/open.svg)](https://pkg.go.dev/mod/github.com/qiniu/open)
 
 ## Description ##
 
@@ -14,14 +18,9 @@
     This is a golang port of the node.js module:
     https://github.com/pwnall/node-open
 
-
-## Documentation ##
-
-[http://godoc.org/github.com/skratchdot/open-golang/open](http://godoc.org/github.com/skratchdot/open-golang/open)
-
 ## Import ##
 
-    import "github.com/skratchdot/open-golang/open"
+    import "github.com/qiniu/open"
 
 ## Usage ##
 
@@ -63,9 +62,3 @@
 
     Open a file, directory, or URI using the specified application. Don't
     wait for the open command to complete.
-
-
-## License ##
-
-Copyright (c) 2013 skratchdot  
-Licensed under the MIT license.
