@@ -2,6 +2,7 @@
 [![Build Status](https://github.com/qiniu/open/actions/workflows/go.yml/badge.svg)](https://github.com/qiniu/open/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/qiniu/open)](https://goreportcard.com/report/github.com/qiniu/open)
 [![GitHub release](https://img.shields.io/github/v/tag/qiniu/open.svg?label=release)](https://github.com/qiniu/open/releases)
+[![Coverage Status](https://codecov.io/gh/qiniu/open/branch/main/graph/badge.svg)](https://codecov.io/gh/qiniu/open)
 [![GoDoc](https://pkg.go.dev/badge/github.com/qiniu/open.svg)](https://pkg.go.dev/mod/github.com/qiniu/open)
 
 ## Description ##
